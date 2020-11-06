@@ -145,6 +145,7 @@ input[type="email"]:invalid~.error-message {
   padding: 1.3rem 2rem;
   flex: 1 1 50%;
   box-shadow: 0 .7rem 1rem rgb(79, 125, 243, .2);
+  cursor: pointer;
 }
 
 .btn:hover,
